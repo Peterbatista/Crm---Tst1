@@ -1,0 +1,6 @@
+{
+  "name": "OmniFlow CRM - Atendimento & Agendamento Omnichannel",
+  "description": "CRM Omnichannel unificado para WhatsApp, Instagram e Facebook com agendamento de horários, conformidade LGPD, suporte a leitores de tela e relatórios em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
